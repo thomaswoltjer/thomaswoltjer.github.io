@@ -16,7 +16,7 @@ Browse works by ensemble:
   - [Score (PDF)](/viral-mutation/Viral_Mutation.pdf)
   - [Computer-generated audio (FLAC)](/viral-mutation/Viral_Mutation.flac)
  
- **_Phoenix_ (Concert band, grade 3-4)
+ **_Phoenix_ (Concert band, grade 3-4)**
   - [Score (PDF)](/phoenix/Phoenix.pdf)
   - [Computer-generated audio (FLAC)](/phoenix/Phoenix.flac)
   
