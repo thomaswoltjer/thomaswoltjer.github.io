@@ -10,7 +10,7 @@ Browse works by ensemble:
  - [Piano duet](/piano-duet.html)
  - [Chamber ensembles](/chamber.html)
  
- ### Works by date (most recent first)
+### Works by date (most recent first)
  
  **_Viral Mutation_ (Orchestra, grade 4)**
   - [Score (PDF)](/viral-mutation/Viral_Mutation.pdf)
@@ -23,3 +23,8 @@ Browse works by ensemble:
  **_Galaxy_ (Chamber Ensemble, grade 3)**
   - [Score (PDF)](/galaxy/Galaxy.pdf)
   - [Computer-generated audio (FLAC)](/galaxy/Galaxy.flac)
+ 
+ **_Piano Duet in E Minor_ (Piano duet, grade 3-4)**
+  - [Score (PDF)](/duet-in-e-minor/Duet-In-E-Minor.pdf)
+  - [Computer-generated audio (FLAC)](/duet-in-e-minor/Duet-In-E-Minor.flac)
+ 
