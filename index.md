@@ -13,8 +13,11 @@ Browse works by ensemble:
 ### Works by date (most recent first)
  
  **_Viral Mutation_ (Orchestra, grade 4)**
-  - [Score 11x17 (PDF)](http://media.thomaswoltjer.com/comps/viral-mutation/Viral_Mutation.pdf)
+  - [Score 8.5x17 (PDF)](http://media.thomaswoltjer.com/comps/viral-mutation/Viral_Mutation_8.5x17.pdf)
+  - [Score 11x17 (PDF)](http://media.thomaswoltjer.com/comps/viral-mutation/Viral_Mutation_11x17.pdf)
   - [Computer-generated audio (FLAC)](http://media.thomaswoltjer.com/comps/viral-mutation/Viral_Mutation.flac)
+  - [Computer-generated audio (MP3)](http://media.thomaswoltjer.com/comps/viral-mutation/Viral_Mutation.mp3)
+
  
  **_Phoenix_ (Concert band, grade 3-4)**
   - [Score (PDF)](/phoenix/Phoenix.pdf)
