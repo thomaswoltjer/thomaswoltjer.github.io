@@ -14,6 +14,7 @@ This piece, written for advanced orchestras, tries to capture my sentiments duri
 
 
 ### _Phoenix_ (Concert band, grade 3-4)
+
 Based on a sequence of six pitches, Phoenix is an exploration of the themes of life, death, and resurrection. This piece is intended to be rather accessible, and could be played by most high school bands. However, it does require piano and harp, so it may be challenging to put it together with a more limited instrumentation. 
  - [Score 8.5x11 (PDF)](http://media.thomaswoltjer.com/comps/phoenix/Phoenix_8.5x11.pdf)
  - [Score 11x17 (PDF)](http://media.thomaswoltjer.com/comps/phoenix/Phoenix_11x17.pdf)
