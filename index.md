@@ -30,10 +30,7 @@ Based on a sequence of six pitches, Phoenix is an exploration of the themes of l
  ### Coming soon
  
  **_Galaxy_ (Chamber Ensemble, grade 3)**
-  - [Score (PDF)](/galaxy/Galaxy.pdf)
-  - [Computer-generated audio (FLAC)](/galaxy/Galaxy.flac)
  
  **_Piano Duet in E Minor_ (Piano duet, grade 3-4)**
-  - [Score (PDF)](/duet-in-e-minor/Duet-In-E-Minor.pdf)
-  - [Computer-generated audio (FLAC)](/duet-in-e-minor/Duet-In-E-Minor.flac)
+
  
