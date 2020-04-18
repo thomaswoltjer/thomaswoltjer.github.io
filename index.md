@@ -12,17 +12,23 @@ Browse works by ensemble:
  
 ### Works by date (most recent first)
  
- **_Viral Mutation_ (Orchestra, grade 4)**
-  - [Score 8.5x11 (PDF)](http://media.thomaswoltjer.com/comps/viral-mutation/Viral_Mutation_8.5x11.pdf)
-  - [Score 11x17 (PDF)](http://media.thomaswoltjer.com/comps/viral-mutation/Viral_Mutation_11x17.pdf)
-  - [Computer-generated audio (FLAC)](http://media.thomaswoltjer.com/comps/viral-mutation/Viral_Mutation.flac)
-  - [Computer-generated audio (MP3)](http://media.thomaswoltjer.com/comps/viral-mutation/Viral_Mutation.mp3)
+**_Viral Mutation_ (Orchestra, grade 4)**
+This piece, written for advanced orchestras, tries to capture my sentiments during the period of social distancing in 2020, due to threat of sickness. It portrays the slow nature of how viruses mutate, with melodies and motives passing by each other, all the time slowly changing in themselves. Though most of the piece maintains a sense of moodiness, it ends on a high note, symbolizing the positive shifts towards of unity, love, and appreciation for each other that I saw in our society as a consequence of the pandemic. 
+ - [Score 8.5x11 (PDF)](http://media.thomaswoltjer.com/comps/viral-mutation/Viral_Mutation_8.5x11.pdf)
+ - [Score 11x17 (PDF)](http://media.thomaswoltjer.com/comps/viral-mutation/Viral_Mutation_11x17.pdf)
+ - [Computer-generated audio (FLAC)](http://media.thomaswoltjer.com/comps/viral-mutation/Viral_Mutation.flac)
+ - [Computer-generated audio (MP3)](http://media.thomaswoltjer.com/comps/viral-mutation/Viral_Mutation.mp3)
 
  
- **_Phoenix_ (Concert band, grade 3-4)**
-  - [Score (PDF)](/phoenix/Phoenix.pdf)
-  - [Computer-generated audio (FLAC)](/phoenix/Phoenix.flac)
+**_Phoenix_ (Concert band, grade 3-4)**
+Based on a sequence of six pitches, Phoenix is an exploration of the themes of life, death, and resurrection. This piece is intended to be rather accessible, and could be played by most high school bands. However, it does require piano and harp, so it may be challenging to put it together with a more limited instrumentation. 
+ - [Score 8.5x11 (PDF)](http://media.thomaswoltjer.com/comps/phoenix/Phoenix_8.5x11.pdf)
+ - [Score 11x17 (PDF)](http://media.thomaswoltjer.com/comps/phoenix/Phoenix_11x17.pdf)
+ - [Computer-generated audio (FLAC)](http://media.thomaswoltjer.com/comps/phoenix/Phoenix.flac)
+ - [Computer-generated audio (MP3)](http://media.thomaswoltjer.com/comps/phoenix/Phoenix.mp3)
   
+ ### Coming soon
+ 
  **_Galaxy_ (Chamber Ensemble, grade 3)**
   - [Score (PDF)](/galaxy/Galaxy.pdf)
   - [Computer-generated audio (FLAC)](/galaxy/Galaxy.flac)
