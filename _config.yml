@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Thomas Woltjer
 description: God-glorifying compositions
+github:
+  is_project_page: false
