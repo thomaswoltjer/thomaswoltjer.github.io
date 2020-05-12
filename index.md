@@ -12,7 +12,7 @@ A brief and joyful prelude, _Freedom Bells_ is an overtly patriotic celebration 
  - [MIDI Audio (FLAC)](http://media.thomaswoltjer.com/comps/freedom_bells/Freedom_Bells.flac)
  - [MIDI Audio (MP3)](http://media.thomaswoltjer.com/comps/freedom_bells/Freedom_Bells.mp3)
 
-### _Viral Mutation_ (Orchestra, grade 4)
+### _Viral Mutation_ (Orchestra, grade 4-5)
 _Updated May 8, 2020_
 
 This piece, written for advanced orchestras, tries to capture my sentiments during the period of social distancing in 2020, due to threat of sickness. It portrays the slow nature of how viruses mutate, with melodies and motives passing by each other, all the time slowly changing in themselves. Though most of the piece maintains a sense of moodiness, it ends on a high note, symbolizing the positive shifts towards of unity, love, and appreciation for each other that I saw in our society as a consequence of the pandemic. 
@@ -33,8 +33,10 @@ Based on a sequence of six pitches, Phoenix is an exploration of the themes of l
  
 ## Coming soon
 
-**_Galaxy_ (Chamber Ensemble, grade 3)**
+**_Galaxy_ (Chamber Ensemble, grade 4)**
 
-**_Piano Duet in E Minor_ (Piano duet, grade 3-4)**
+**_Piano Duet in E Minor_ (Piano duet, grade 4)**
 
-**_Aether and Chaos_ (Concert band, grad 4)** 
+**_Aether and Chaos_ (Concert band, grade 5)** 
+
+**_Fearless_ Concert band, grade 5-6)** 
