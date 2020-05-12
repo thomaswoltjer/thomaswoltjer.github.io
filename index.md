@@ -22,7 +22,7 @@ This piece, written for advanced orchestras, tries to capture my sentiments duri
  - [MIDI Audio (MP3)](http://media.thomaswoltjer.com/comps/viral-mutation/Viral_Mutation.mp3)
 
 
-### _Phoenix_ (Concert band, grade 3-4)
+### _Phoenix_ (Concert band, grade 4)
 _Updated April 18, 2020_
 
 Based on a sequence of six pitches, Phoenix is an exploration of the themes of life, death, and resurrection. This piece is intended to be rather accessible, and could be played by most high school bands. However, it does require piano and harp, so it may be challenging to put it together with a more limited instrumentation. 
