@@ -39,4 +39,4 @@ Based on a sequence of six pitches, Phoenix is an exploration of the themes of l
 
 **_Aether and Chaos_ (Concert band, grade 5)** 
 
-**_Fearless_ Concert band, grade 5-6)** 
+**_Fearless_ (Concert band, grade 5-6)** 
