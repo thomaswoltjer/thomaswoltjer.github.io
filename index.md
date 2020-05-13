@@ -4,9 +4,14 @@ Hi! I am Thomas Woltjer, a Grand Rapids based software engineer and award-winnin
 
 ## Works 
 
+[Concert Band](#concert-band)
+[Orchestra](#orchestra)
+[Chamber Music](#chamber-music)
+[Solo Piano](#solo-piano)
+
 ### Concert Band
 
-#### _Freedom Bells_ (Grade 3)
+#### _Freedom Bells_ (3 minutes, grade 3)
 _Updated May 11, 2020_
 
 A brief and joyful prelude, _Freedom Bells_ is an overtly patriotic celebration of liberty and (as indicated by the title) freedom. I wrote it entirely during my last month at Calvin University, in gratitude for the educators who have guided my path of discovery of meaning in and understanding of music and programming. Accessible for many bands, but rich in contrapuntal melodies, this piece is well suited a wide variety of groups and circumstances. 
@@ -14,7 +19,7 @@ A brief and joyful prelude, _Freedom Bells_ is an overtly patriotic celebration 
  - [MIDI Audio (FLAC)](http://media.thomaswoltjer.com/comps/freedom_bells/Freedom_Bells.flac)
  - [MIDI Audio (MP3)](http://media.thomaswoltjer.com/comps/freedom_bells/Freedom_Bells.mp3)
  
-### _Phoenix_ (Concert band, grade 4)
+#### _Phoenix_ (10 minutes, grade 4)
 _Updated April 18, 2020_
 
 Based on a sequence of six pitches, Phoenix is an exploration of the themes of life, death, and resurrection. This piece is intended to be rather accessible, and could be played by most high school bands. However, it does require piano and harp, so it may be challenging to put it together with a more limited instrumentation. 
@@ -23,15 +28,15 @@ Based on a sequence of six pitches, Phoenix is an exploration of the themes of l
  - [MIDI Audio (FLAC)](http://media.thomaswoltjer.com/comps/phoenix/Phoenix.flac)
  - [MIDI Audio (MP3)](http://media.thomaswoltjer.com/comps/phoenix/Phoenix.mp3)
  
-### _Aether and Chaos_ (Grade 5)
+#### _Aether and Chaos_ (Grade 5)
 _Coming soon_
 
-### _Fearless_ (Grade 5-6)
+#### _Fearless_ (Grade 5-6)
 _Coming soon_
 
 ### Orchestra 
 
-#### _Viral Mutation_ (Orchestra, grade 4-5)
+#### _Viral Mutation_ (10 minutes, grade 4-5)
 _Updated May 8, 2020_
 
 This piece, written for advanced orchestras, tries to capture my sentiments during the period of social distancing in 2020, due to threat of sickness. It portrays the slow nature of how viruses mutate, with melodies and motives passing by each other, all the time slowly changing in themselves. Though most of the piece maintains a sense of moodiness, it ends on a high note, symbolizing the positive shifts towards of unity, love, and appreciation for each other that I saw in our society as a consequence of the pandemic. 
@@ -42,10 +47,18 @@ This piece, written for advanced orchestras, tries to capture my sentiments duri
 
 ### Chamber Music
 
-#### _Galaxy_ (Mixed instrumentation, rade 4)
+#### _Galaxy_ (Mixed instrumentation, intermediate-advanced difficulty)
 _Coming soon_
 
-#### _Piano Duet in E Minor_ (Piano duet, grade 4)
+#### _Piano Duet in E Minor_ (Piano duet, intermediate-advanced difficulty)
 _Coming soon_
 
+### Solo Piano
 
+#### _Forgotten Dreams_ (1-2 minutes, easy-intermediate diffculty)
+_Updated May 13, 2020_
+ - [Sheet Music](http://media.thomaswoltjer.com/comps/forgotten-dreams/Forgotten_Dreams.pdf)
+ - [MIDI Audio (MP3)](http://media.thomaswoltjer.com/comps/forgotten-dreams/Forgotten_Dreams.mp3)
+
+#### _Identity_ (2-3 minutes, intermediate difficulty)
+_Coming soon_
