@@ -57,7 +57,7 @@ _Coming soon_
 
 #### _Forgotten Dreams_ (1-2 minutes, easy-intermediate diffculty)
 _Updated May 13, 2020_
- - [Sheet Music](http://media.thomaswoltjer.com/comps/forgotten-dreams/Forgotten_Dreams.pdf)
+ - [Sheet Music (PDF)](http://media.thomaswoltjer.com/comps/forgotten-dreams/Forgotten_Dreams.pdf)
  - [MIDI Audio (MP3)](http://media.thomaswoltjer.com/comps/forgotten-dreams/Forgotten_Dreams.mp3)
 
 #### _Identity_ (2-3 minutes, intermediate difficulty)
