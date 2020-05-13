@@ -4,24 +4,16 @@ Hi! I am Thomas Woltjer, a Grand Rapids based software engineer and award-winnin
 
 ## Works 
 
-### _Freedom Bells_ (Concert band, grade 3)
+### Concert Band
+
+#### _Freedom Bells_ (Grade 3)
 _Updated May 11, 2020_
 
 A brief and joyful prelude, _Freedom Bells_ is an overtly patriotic celebration of liberty and (as indicated by the title) freedom. I wrote it entirely during my last month at Calvin University, in gratitude for the educators who have guided my path of discovery of meaning in and understanding of music and programming. Accessible for many bands, but rich in contrapuntal melodies, this piece is well suited a wide variety of groups and circumstances. 
  - [Score 8.5x11 (PDF)](http://media.thomaswoltjer.com/comps/freedom_bells/Freedom_Bells.pdf)
  - [MIDI Audio (FLAC)](http://media.thomaswoltjer.com/comps/freedom_bells/Freedom_Bells.flac)
  - [MIDI Audio (MP3)](http://media.thomaswoltjer.com/comps/freedom_bells/Freedom_Bells.mp3)
-
-### _Viral Mutation_ (Orchestra, grade 4-5)
-_Updated May 8, 2020_
-
-This piece, written for advanced orchestras, tries to capture my sentiments during the period of social distancing in 2020, due to threat of sickness. It portrays the slow nature of how viruses mutate, with melodies and motives passing by each other, all the time slowly changing in themselves. Though most of the piece maintains a sense of moodiness, it ends on a high note, symbolizing the positive shifts towards of unity, love, and appreciation for each other that I saw in our society as a consequence of the pandemic. 
- - [Score 8.5x11 (PDF)](http://media.thomaswoltjer.com/comps/viral-mutation/Viral_Mutation_8.5x11.pdf)
- - [Score 11x17 (PDF)](http://media.thomaswoltjer.com/comps/viral-mutation/Viral_Mutation_11x17.pdf)
- - [MIDI Audio (FLAC)](http://media.thomaswoltjer.com/comps/viral-mutation/Viral_Mutation.flac)
- - [MIDI Audio (MP3)](http://media.thomaswoltjer.com/comps/viral-mutation/Viral_Mutation.mp3)
-
-
+ 
 ### _Phoenix_ (Concert band, grade 4)
 _Updated April 18, 2020_
 
@@ -31,12 +23,29 @@ Based on a sequence of six pitches, Phoenix is an exploration of the themes of l
  - [MIDI Audio (FLAC)](http://media.thomaswoltjer.com/comps/phoenix/Phoenix.flac)
  - [MIDI Audio (MP3)](http://media.thomaswoltjer.com/comps/phoenix/Phoenix.mp3)
  
-## Coming soon
+### _Aether and Chaos_ (Grade 5)
+_Coming soon_
 
-**_Galaxy_ (Chamber Ensemble, grade 4)**
+### _Fearless_ (Grade 5-6)
+_Coming soon_
 
-**_Piano Duet in E Minor_ (Piano duet, grade 4)**
+### Orchestra 
 
-**_Aether and Chaos_ (Concert band, grade 5)** 
+#### _Viral Mutation_ (Orchestra, grade 4-5)
+_Updated May 8, 2020_
 
-**_Fearless_ (Concert band, grade 5-6)** 
+This piece, written for advanced orchestras, tries to capture my sentiments during the period of social distancing in 2020, due to threat of sickness. It portrays the slow nature of how viruses mutate, with melodies and motives passing by each other, all the time slowly changing in themselves. Though most of the piece maintains a sense of moodiness, it ends on a high note, symbolizing the positive shifts towards of unity, love, and appreciation for each other that I saw in our society as a consequence of the pandemic. 
+ - [Score 8.5x11 (PDF)](http://media.thomaswoltjer.com/comps/viral-mutation/Viral_Mutation_8.5x11.pdf)
+ - [Score 11x17 (PDF)](http://media.thomaswoltjer.com/comps/viral-mutation/Viral_Mutation_11x17.pdf)
+ - [MIDI Audio (FLAC)](http://media.thomaswoltjer.com/comps/viral-mutation/Viral_Mutation.flac)
+ - [MIDI Audio (MP3)](http://media.thomaswoltjer.com/comps/viral-mutation/Viral_Mutation.mp3)
+
+### Chamber Music
+
+#### _Galaxy_ (Mixed instrumentation, rade 4)
+_Coming soon_
+
+#### _Piano Duet in E Minor_ (Piano duet, grade 4)
+_Coming soon_
+
+
