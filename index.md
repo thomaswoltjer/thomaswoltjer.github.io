@@ -4,10 +4,10 @@ Hi! I am Thomas Woltjer, a Grand Rapids based software engineer and award-winnin
 
 ## Works 
 
-[Concert Band](#concert-band)
-[Orchestra](#orchestra)
-[Chamber Music](#chamber-music)
-[Solo Piano](#solo-piano)
+ - [Concert Band](#concert-band)
+ - [Orchestra](#orchestra)
+ - [Chamber Music](#chamber-music)
+ - [Solo Piano](#solo-piano)
 
 ### Concert Band
 
