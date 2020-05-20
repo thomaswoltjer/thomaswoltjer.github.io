@@ -12,7 +12,7 @@ Hi! I am Thomas Woltjer, a Grand Rapids based software engineer and award-winnin
 ### Concert Band
 
 #### _Freedom Bells_ (3 minutes, grade 3)
-_Updated May 11, 2020_
+_Updated May 20, 2020_
 
 A brief and joyful prelude, _Freedom Bells_ is an overtly patriotic celebration of liberty and (as indicated by the title) freedom. I wrote it entirely during my last month at Calvin University, in gratitude for the educators who have guided my path of discovery of meaning in and understanding of music and programming. Accessible for many bands, but rich in contrapuntal melodies, this piece is well suited a wide variety of groups and circumstances. 
  - [Score 8.5x11 (PDF)](http://media.thomaswoltjer.com/comps/freedom_bells/Freedom_Bells.pdf)
@@ -50,8 +50,11 @@ This piece, written for advanced orchestras, tries to capture my sentiments duri
 #### _Galaxy_ (Mixed instrumentation, intermediate-advanced difficulty)
 _Coming soon_
 
-#### _Piano Duet in E Minor_ (Piano duet, intermediate-advanced difficulty)
-_Coming soon_
+#### _Wild Card_ (Piano four hands, advanced difficulty)
+
+This piece, inspired by the Batman character known as "The Joker" showcases a manic personality with a tendency towards destruction. Although it is reasonably short, it is not for the faint-hearted. 
+- [Sheet Music (PDF)](http://media.thomaswoltjer.com/comps/wild-card/Wild_Card.pdf)
+- [MIDI Audio (MP3)](http://media.thomaswoltjer.com/comps/wild-card/Wild_Card.mp3)
 
 ### Solo Piano
 
@@ -59,6 +62,8 @@ _Coming soon_
 _Updated May 13, 2020_
  - [Sheet Music (PDF)](http://media.thomaswoltjer.com/comps/forgotten-dreams/Forgotten_Dreams.pdf)
  - [MIDI Audio (MP3)](http://media.thomaswoltjer.com/comps/forgotten-dreams/Forgotten_Dreams.mp3)
+
+
 
 #### _Identity_ (2-3 minutes, intermediate difficulty)
 _Coming soon_
