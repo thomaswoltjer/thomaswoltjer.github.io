@@ -28,13 +28,11 @@ Based on a sequence of six pitches, Phoenix is an exploration of the themes of l
  - [MIDI Audio (FLAC)](http://media.thomaswoltjer.com/comps/phoenix/Phoenix.flac)
  - [MIDI Audio (MP3)](http://media.thomaswoltjer.com/comps/phoenix/Phoenix.mp3)
  
-<div style={display: none;}>
 #### _Aether and Chaos_ (Grade 5)
 _Coming soon_
 
 #### _Fearless_ (Grade 5-6)
 _Coming soon_
-</div>
 
 ### Orchestra 
 
@@ -49,10 +47,8 @@ This piece, written for advanced orchestras, tries to capture my sentiments duri
 
 ### Chamber Music
 
-<div style={display: none;}>
 #### _Galaxy_ (Mixed instrumentation, intermediate-advanced difficulty)
 _Coming soon_
-</div>
 
 #### _Wild Card_ (Piano four hands, advanced difficulty)
 
@@ -67,7 +63,5 @@ _Updated May 13, 2020_
  - [Sheet Music (PDF)](http://media.thomaswoltjer.com/comps/forgotten-dreams/Forgotten_Dreams.pdf)
  - [MIDI Audio (MP3)](http://media.thomaswoltjer.com/comps/forgotten-dreams/Forgotten_Dreams.mp3)
 
-<div style={display: none;}>
 #### _Identity_ (2-3 minutes, intermediate difficulty)
 _Coming soon_
-</div>
